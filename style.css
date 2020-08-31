@@ -1,0 +1,24 @@
+.kolom-buah {
+   
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+
+.kolom-satuan {
+    height: 500px;
+    width: 200px;
+}
+
+.frame-gambar {
+    border-radius: 2%;
+    height: 200px;
+    width: 160px;
+}
+
+.kolom-gambar {
+    justify-content: center;
+    padding: 20px;
+}
